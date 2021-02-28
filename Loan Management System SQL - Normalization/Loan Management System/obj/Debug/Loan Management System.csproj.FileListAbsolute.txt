@@ -1,0 +1,55 @@
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System\Loan Management System\bin\Debug\Loan Management System.exe.config
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System\Loan Management System\bin\Debug\Loan Management System.exe
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System\Loan Management System\bin\Debug\Loan Management System.pdb
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System\Loan Management System\obj\Debug\Loan Management System.csprojResolveAssemblyReference.cache
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System\Loan Management System\obj\Debug\Loan_Management_System.MainForm.resources
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System\Loan Management System\obj\Debug\Loan Management System.csproj.GenerateResource.Cache
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System\Loan Management System\obj\Debug\Loan Management System.exe
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System\Loan Management System\obj\Debug\Loan Management System.pdb
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System\Loan Management System\obj\Debug\Loan_Management_System.Menu.resources
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System\Loan Management System\obj\Debug\Loan_Management_System.ViewLoans.resources
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System\Loan Management System\obj\Debug\Loan_Management_System.Login.resources
+C:\Users\judea\Documents\Loan Management System\Loan Management System\bin\Debug\Loan Management System.exe.config
+C:\Users\judea\Documents\Loan Management System\Loan Management System\bin\Debug\Loan Management System.exe
+C:\Users\judea\Documents\Loan Management System\Loan Management System\bin\Debug\Loan Management System.pdb
+C:\Users\judea\Documents\Loan Management System\Loan Management System\obj\Debug\Loan Management System.csprojResolveAssemblyReference.cache
+C:\Users\judea\Documents\Loan Management System\Loan Management System\obj\Debug\Loan_Management_System.Login.resources
+C:\Users\judea\Documents\Loan Management System\Loan Management System\obj\Debug\Loan_Management_System.MainForm.resources
+C:\Users\judea\Documents\Loan Management System\Loan Management System\obj\Debug\Loan_Management_System.Menu.resources
+C:\Users\judea\Documents\Loan Management System\Loan Management System\obj\Debug\Loan_Management_System.ViewLoans.resources
+C:\Users\judea\Documents\Loan Management System\Loan Management System\obj\Debug\Loan Management System.csproj.GenerateResource.Cache
+C:\Users\judea\Documents\Loan Management System\Loan Management System\obj\Debug\Loan Management System.exe
+C:\Users\judea\Documents\Loan Management System\Loan Management System\obj\Debug\Loan Management System.pdb
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL\Loan Management System\bin\Debug\Loan Management System.exe.config
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL\Loan Management System\bin\Debug\Loan Management System.exe
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL\Loan Management System\bin\Debug\Loan Management System.pdb
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL\Loan Management System\obj\Debug\Loan Management System.csprojResolveAssemblyReference.cache
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL\Loan Management System\obj\Debug\Loan_Management_System.Login.resources
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL\Loan Management System\obj\Debug\Loan_Management_System.MainForm.resources
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL\Loan Management System\obj\Debug\Loan_Management_System.Menu.resources
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL\Loan Management System\obj\Debug\Loan_Management_System.ViewLoans.resources
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL\Loan Management System\obj\Debug\Loan Management System.csproj.GenerateResource.Cache
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL\Loan Management System\obj\Debug\Loan Management System.exe
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL\Loan Management System\obj\Debug\Loan Management System.pdb
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Copy\Loan Management System\obj\Debug\Loan Management System.csprojResolveAssemblyReference.cache
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Copy\Loan Management System\obj\Debug\Loan_Management_System.Login.resources
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Copy\Loan Management System\obj\Debug\Loan_Management_System.MainForm.resources
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Copy\Loan Management System\obj\Debug\Loan_Management_System.Menu.resources
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Copy\Loan Management System\obj\Debug\Loan_Management_System.ViewLoans.resources
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Copy\Loan Management System\obj\Debug\Loan Management System.csproj.GenerateResource.Cache
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Copy\Loan Management System\obj\Debug\Loan Management System.exe
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Copy\Loan Management System\bin\Debug\Loan Management System.exe.config
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Copy\Loan Management System\bin\Debug\Loan Management System.exe
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Copy\Loan Management System\bin\Debug\Loan Management System.pdb
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Copy\Loan Management System\obj\Debug\Loan Management System.pdb
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Normalization\Loan Management System\bin\Debug\Loan Management System.exe.config
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Normalization\Loan Management System\bin\Debug\Loan Management System.exe
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Normalization\Loan Management System\bin\Debug\Loan Management System.pdb
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Normalization\Loan Management System\obj\Debug\Loan Management System.csprojResolveAssemblyReference.cache
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Normalization\Loan Management System\obj\Debug\Loan_Management_System.Login.resources
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Normalization\Loan Management System\obj\Debug\Loan_Management_System.MainForm.resources
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Normalization\Loan Management System\obj\Debug\Loan_Management_System.Menu.resources
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Normalization\Loan Management System\obj\Debug\Loan_Management_System.ViewLoans.resources
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Normalization\Loan Management System\obj\Debug\Loan Management System.csproj.GenerateResource.Cache
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Normalization\Loan Management System\obj\Debug\Loan Management System.exe
+C:\Users\judea\Documents\SharpDevelop Projects\Loan Management System SQL - Normalization\Loan Management System\obj\Debug\Loan Management System.pdb
